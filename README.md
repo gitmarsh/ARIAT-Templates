@@ -1,2 +1,2 @@
-# CIPP-Templates
-CIPP Community Templates
+# Ariat-Templates
+Ariat Systems emplates
